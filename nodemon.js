@@ -1,0 +1,7 @@
+env= {
+    "AWS_ACCESS_KEY_ID" : "AKIATMNJIISV7W7I4PXD",
+
+    "AWS_SECRET_ACCESS_KEY": "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" ,
+    "AWS_BUCKET_NAME" : "project-test-bucket01"
+
+}
